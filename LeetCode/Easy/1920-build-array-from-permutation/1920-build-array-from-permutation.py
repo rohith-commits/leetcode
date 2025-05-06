@@ -4,4 +4,3 @@ class Solution(object):
         for i in range(len(nums)):
             ans.insert(i, nums[nums[i]])
         return ans
-        
